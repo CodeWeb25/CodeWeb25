@@ -1,38 +1,38 @@
 <div align="center">
 
-  # 🚀 Hi there, I'm Amjad Al-Hassoun
+  # 👋 Hello, I'm Amjad Al-Hassoun
   ### 💻 Full-Stack Web Developer & Content Creator 🎥
-
-  <p align="center">
-    <a href="YOUR_YOUTUBE_CHANNEL_LINK">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-    </a>
-    <a href="YOUR_LINKEDIN_LINK">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
 
   ---
 
   ### 💡 About Me
-  Passionate web developer focused on building interactive and modern web applications. I also love sharing knowledge and simplifying programming concepts through my YouTube channel.
+  Passionate web developer and tech content creator. I specialize in building modern, responsive, and user-friendly web applications, while sharing my programming journey and knowledge through my YouTube channel.
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🚀 What I Do (Services)
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Front-End** | `<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="22"/>` HTML5 &nbsp; `<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="22"/>` CSS3 &nbsp; `<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="22"/>` JavaScript &nbsp; `<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="22"/>` React.js |
-| **Back-End** | `<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="22"/>` Python |
-| **Tools & OS** | `<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="22"/>` Git &nbsp; `<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="22"/>` GitHub &nbsp; `<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="22"/>` VS Code |
+* **🌐 Web Development:** Building dynamic, fast, and responsive websites using modern technologies.
+* **⚛️ Front-End Engineering:** Turning UI/UX designs into clean, interactive, and high-performance interfaces with React.js and JavaScript.
+* **🐍 Back-End Development:** Developing reliable server-side logic and applications using Python.
+* **🎥 Tech Content Creation:** Producing engaging educational videos and tutorials about programming and web development.
 
 ---
 
-### 📈 GitHub Stats
+### 🛠️ Skills & Technologies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="
+| Category | Technologies |
+| :--- | :--- |
+| **Front-End** | HTML5, CSS3, JavaScript, React.js |
+| **Back-End** | Python |
+| **Tools & Version Control** | Git, GitHub, VS Code |
+
+---
+
+<div align="center">
+  
+  ### Let's Build Something Amazing Together! 🚀
+
+</div>
