@@ -1,23 +1,23 @@
 <div align="center">
 
-  <!-- بانر سينمائي خارق الفخامة بتدرجات نيون عميقة -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050508,50:0e1525,100:050508&height=260&section=header&text=AMJAD%20AL-HASSOUN&fontSize=42&fontColor=00f2fe&animation=fadeIn&fontY=35&desc=FULL-STACK%20ENGINEER%20&%20DIGITAL%20ARCHITECT&descSize=15&descColor=a8b2d1&descAlignY=68" width="100%" />
+  <!-- بانر سايبرباني ملكي مظلم خارق الفخامة -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:090d16,100:000000&height=270&section=header&text=AMJAD%20AL-HASSOUN&fontSize=42&fontColor=00ffcc&animation=scaleIn&fontY=35&desc=ELITE%20FULL-STACK%20ARCHITECT%20&%20TECH%20CREATOR&descSize=15&descColor=8a99ad&descAlignY=68" width="100%" />
 
   <br><br>
 
-  <!-- أزرار تفاعلية فخمة ومتوهجة مع تأثيرات حية -->
+  <!-- أزرار تفاعلية متوهجة وثلاثية الأبعاد -->
   <p align="center">
     <a href="YOUR_YOUTUBE_CHANNEL_LINK" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=050505" />
     </a>
     <a href="YOUR_LINKEDIN_LINK" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505" />
     </a>
     <a href="mailto:YOUR_EMAIL@example.com">
-      <img src="https://img.shields.io/badge/Direct_Mail-00f2fe?style=for-the-badge&logo=minutemailer&logoColor=black&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Direct_Mail-00ffcc?style=for-the-badge&logo=minutemailer&logoColor=black&labelColor=050505" />
     </a>
     <a href="YOUR_PORTFOLIO_LINK" target="_blank">
-      <img src="https://img.shields.io/badge/Elite_Portfolio-7928CA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Elite_Hub-7928CA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050505" />
     </a>
   </p>
 
@@ -25,17 +25,17 @@
 
 ---
 
-## ⚡ 01. // EXECUTIVE PROFILE & VISION
+## ⚡ 01. // EXECUTIVE SYSTEM ARCHITECTURE (ABOUT)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Architecting+Scalable+Full-Stack+Web+Ecosystems.;Engineering+Immersive+User+Experiences+with+React.;Demystifying+Advanced+Code+for+Global+Developers." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=1000&color=00FFCC&center=true&vCenter=true&width=720&lines=Architecting+Elite+Full-Stack+Web+Ecosystems.;Engineering+Immersive+React+User+Interfaces.;Empowering+Global+Developers+via+YouTube." alt="Typing SVG" />
 </div>
 
 <br>
 
-> *"Excellence is not an act, but a persistent architectural habit."* — Core Engineering Philosophy
+> *"Excellence is not a skill, it’s an architectural obsession."* — Engineering Manifesto
 
-I am **Amjad Al-Hassoun**, an elite **Full-Stack Web Developer** and technology creator. I specialize in designing and engineering high-availability, secure, and lightning-fast web applications from the core database architecture down to the pixel-perfect user interface. Beyond writing code, I lead a digital platform on YouTube, transforming intricate programming paradigms into crystal-clear, mastery-level knowledge for developers worldwide.
+I am **Amjad Al-Hassoun**, an elite **Full-Stack Web Developer** and digital creator. I engineer high-performance, secure, and hyper-scalable web solutions from deep database back-ends down to pixel-perfect, lightning-fast React front-ends. Beyond code, I direct a technical hub on YouTube, transforming intricate engineering hurdles into crystal-clear mastery.
 
 ---
 
@@ -45,9 +45,9 @@ I am **Amjad Al-Hassoun**, an elite **Full-Stack Web Developer** and technology 
 
 | 🚀 **Full-Stack Architecture** | ⚛️ **Front-End Engineering** |
 | :--- | :--- |
-| End-to-end development of resilient, high-performance web applications built for speed, scale, and ironclad security. | Crafting fluid, highly reactive, and visually breathtaking user interfaces using modern React ecosystems. |
+| End-to-end development of resilient, high-availability web applications built for absolute scale and ironclad security. | Crafting fluid, highly reactive, and visually breathtaking user interfaces using modern React ecosystems. |
 | **🧠 Back-End Systems & APIs** | **🎥 Tech Content Creation** |
-| Engineering secure server-side logic, efficient data structures, and robust algorithms powered by Python. | Producing elite-tier educational programming content, tutorials, and masterclasses on YouTube. |
+| Engineering secure server-side logic, efficient data structures, and robust algorithms powered by Python. | Producing elite-tier educational programming masterclasses, tutorials, and deep-dives on YouTube. |
 
 </div>
 
@@ -76,8 +76,8 @@ I am **Amjad Al-Hassoun**, an elite **Full-Stack Web Developer** and technology 
 ## 📊 04. // SYSTEM METRICS & ANALYTICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=050508&title_color=00f2fe&text_color=a8b2d1" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=050508&title_color=00f2fe&text_color=a8b2d1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=000000&title_color=00ffcc&text_color=8a99ad" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00ffcc&text_color=8a99ad" width="48%" />
 </div>
 
 ---
@@ -95,6 +95,6 @@ I am **Amjad Al-Hassoun**, an elite **Full-Stack Web Developer** and technology 
   <br><br>
 
   <!-- بانر سفلي سينمائي يغلق الصفحة بطابع سايبر-هندسي مرعب الفخامة -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e1525,50:050508,100:050508&height=130&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,50:000000,100:000000&height=130&section=footer" width="100%" />
 
 </div>
