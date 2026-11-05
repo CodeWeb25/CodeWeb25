@@ -21,8 +21,6 @@
 
 💻 Programming is my passion.
 
-🎨 Creativity is my power.
-
 🧠 Learning is my journey.
 
 🔥 Innovation is my goal.
