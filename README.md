@@ -1,100 +1,171 @@
-<div align="center">
 
-  <!-- بانر سايبرباني ملكي مظلم خارق الفخامة -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:090d16,100:000000&height=270&section=header&text=AMJAD%20AL-HASSOUN&fontSize=42&fontColor=00ffcc&animation=scaleIn&fontY=35&desc=ELITE%20FULL-STACK%20ARCHITECT%20&%20TECH%20CREATOR&descSize=15&descColor=8a99ad&descAlignY=68" width="100%" />
-
-  <br><br>
-
-  <!-- أزرار تفاعلية متوهجة وثلاثية الأبعاد -->
-  <p align="center">
-    <a href="YOUR_YOUTUBE_CHANNEL_LINK" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=050505" />
-    </a>
-    <a href="YOUR_LINKEDIN_LINK" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505" />
-    </a>
-    <a href="mailto:YOUR_EMAIL@example.com">
-      <img src="https://img.shields.io/badge/Direct_Mail-00ffcc?style=for-the-badge&logo=minutemailer&logoColor=black&labelColor=050505" />
-    </a>
-    <a href="YOUR_PORTFOLIO_LINK" target="_blank">
-      <img src="https://img.shields.io/badge/Elite_Hub-7928CA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050505" />
-    </a>
-  </p>
-
-</div>
-
----
-
-## ⚡ 01. // EXECUTIVE SYSTEM ARCHITECTURE (ABOUT)
+<!-- ================= HEADER ================= -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=1000&color=00FFCC&center=true&vCenter=true&width=720&lines=Architecting+Elite+Full-Stack+Web+Ecosystems.;Engineering+Immersive+React+User+Interfaces.;Empowering+Global+Developers+via+YouTube." alt="Typing SVG" />
-</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050A30,50:003B73,100:00A6FB&height=220&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Programmer%20%7C%20Creator&descAlignY=55&descSize=18"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00A6FB&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;I'm+a+Web+Developer;I+Love+Coding+%F0%9F%92%BB;Building+Cool+Projects+%F0%9F%9A%80;Always+Learning+New+Things+%E2%9C%A8" />
 
 <br>
 
-> *"Excellence is not a skill, it’s an architectural obsession."* — Engineering Manifesto
-
-I am **Amjad Al-Hassoun**, an elite **Full-Stack Web Developer** and digital creator. I engineer high-performance, secure, and hyper-scalable web solutions from deep database back-ends down to pixel-perfect, lightning-fast React front-ends. Beyond code, I direct a technical hub on YouTube, transforming intricate engineering hurdles into crystal-clear mastery.
-
----
-
-## 🔮 02. // CORE CAPABILITIES & SERVICES
-
-<div align="center">
-
-| 🚀 **Full-Stack Architecture** | ⚛️ **Front-End Engineering** |
-| :--- | :--- |
-| End-to-end development of resilient, high-availability web applications built for absolute scale and ironclad security. | Crafting fluid, highly reactive, and visually breathtaking user interfaces using modern React ecosystems. |
-| **🧠 Back-End Systems & APIs** | **🎥 Tech Content Creation** |
-| Engineering secure server-side logic, efficient data structures, and robust algorithms powered by Python. | Producing elite-tier educational programming masterclasses, tutorials, and deep-dives on YouTube. |
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00A6FB&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🛠️ 03. // TECHNOLOGICAL ARSENAL (SKILLS)
+<!-- ================= ABOUT ME ================= -->
+
+# 👨‍💻 About Me
+
+```javascript
+const developer = {
+    name: "YOUR NAME",
+    role: "Web Developer",
+    location: "Earth 🌍",
+
+    languages: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Python"
+    ],
+
+    interests: [
+        "Web Development",
+        "Programming",
+        "UI/UX Design",
+        "Technology"
+    ],
+
+    currentlyLearning: "JavaScript 🚀",
+    motto: "Code. Create. Innovate."
+};
+
+console.log("Welcome to my GitHub!");
+```
+
+---
+
+<!-- ================= TECH STACK ================= -->
+
+# ⚡ My Tech Stack
 
 <div align="center">
 
-  ### **-- Frontend Ecosystem --**
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+### 🌐 Frontend Development
 
-  ### **-- Backend & Engineering Infrastructure --**
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react&theme=dark" />
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,php,mysql,firebase&theme=dark" />
+
+### 🛠️ Tools & Software
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,photoshop,linux&theme=dark" />
 
 </div>
 
 ---
 
-## 📊 04. // SYSTEM METRICS & ANALYTICS
+<!-- ================= GITHUB STATS ================= -->
+
+# 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=000000&title_color=00ffcc&text_color=8a99ad" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00ffcc&text_color=8a99ad" width="48%" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<!-- ================= CONTRIBUTIONS ================= -->
+
+# 🐍 My Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+<!-- ================= TROPHIES ================= -->
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+<!-- ================= PROJECTS ================= -->
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+<!-- ================= ACTIVITY ================= -->
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+<!-- ================= CONTACT ================= -->
+
+# 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-  ### Let's Engineer the Future of the Web Together. 🌟
-  
-  <br>
+### 💙 Thanks For Visiting My Profile!
 
-  <a href="YOUR_YOUTUBE_CHANNEL_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/⚡_Join_The_Channel_On_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00A6FB&center=true&vCenter=true&width=500&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Coding+%F0%9F%92%BB;See+You+Next+Time!+%E2%9C%A8"/>
 
-  <br><br>
-
-  <!-- بانر سفلي سينمائي يغلق الصفحة بطابع سايبر-هندسي مرعب الفخامة -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,50:000000,100:000000&height=130&section=footer" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050A30,50:003B73,100:00A6FB&height=120&section=footer"/>
 
 </div>
