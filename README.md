@@ -1,20 +1,23 @@
 <div align="center">
 
-  <!-- بانر علوي متحرك فخم جداً -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=180&section=header&text=Amjad%20Al-Hassoun&fontSize=38&fontColor=ffffff&animation=fadeIn&fontY=50&desc=Full-Stack%20Developer%20&%20Content%20Creator&descSize=16&descAlignY=75" width="100%" />
+  <!-- بانر متحرك ضخم وساحر بتصميم إلكتروني سينمائي -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,50:111118,100:1a0033&height=250&section=header&text=AMJAD%20AL-HASSOUN&fontSize=45&fontColor=00ffcc&animation=scaleIn&fontY=35&desc=FULL-STACK%20ARCHITECT%20&%20TECH%20CREATOR&descSize=16&descColor=a29bfe&descAlignY=65" width="100%" />
 
   <br><br>
 
-  <!-- أزرار التواصل البارزة -->
+  <!-- شريط شارات تواصل تفاعلية وثلاثية الأبعاد -->
   <p align="center">
     <a href="YOUR_YOUTUBE_CHANNEL_LINK" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a1a" />
     </a>
     <a href="YOUR_LINKEDIN_LINK" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" />
     </a>
     <a href="mailto:YOUR_EMAIL@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Pro_Email-00ffcc?style=for-the-badge&logo=minutemailer&logoColor=black&labelColor=1a1a1a" />
+    </a>
+    <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-7928CA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a" />
     </a>
   </p>
 
@@ -22,40 +25,40 @@
 
 ---
 
-## 🚀 About Me
+## ⚡ 01. // EXECUTIVE PROFILE (ABOUT)
 
 <div align="center">
-  <p><i>"Transforming complex ideas into seamless, high-performance web applications and sharing knowledge globally."</i></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Architectures.;Crafting+Next-Gen+User+Interfaces.;Demystifying+Code+on+YouTube." alt="Typing SVG" />
 </div>
 
-I'm **Amjad Al-Hassoun**, a passionate **Full-Stack Web Developer** and **Tech Content Creator** on YouTube. I specialize in building modern, responsive, and robust applications while making programming concepts simple and accessible for developers everywhere.
+<br>
+
+> **"Code is like humor. When you have to explain it, it’s bad."** — *Software Engineering Philosophy*
+
+I am **Amjad Al-Hassoun**, a high-end **Full-Stack Web Developer** and digital creator. I don't just write code; I engineer robust digital ecosystems, fluid user experiences, and scalable solutions from the ground up. Alongside development, I lead a technical community on YouTube, transforming intricate programming barriers into crystal-clear mastery.
 
 ---
 
-## ⚡ What I Do (Services)
+## 💎 02. // CORE CAPABILITIES & SERVICES
 
 <div align="center">
 
-| 🌐 **Web Development** | ⚛️ **Front-End Engineering** |
-| :--- | :--- |
-| Building full-scale, fast, and secure web solutions tailored to modern standards. | Crafting pixel-perfect, highly interactive, and responsive user interfaces with React. |
-| **🐍 Back-End Development** | **🎥 Tech Content Creation** |
-| Developing robust server-side logic, APIs, and data processing systems with Python. | Producing engaging educational programming tutorials and videos on YouTube. |
+| 🚀 **Full-Stack Engineering** | ⚛️ **Front-End Mastery** |
+| :---: | :---: |
+| Architecting end-to-end web applications with optimal performance, high security, and clean architecture. | Developing fluid, high-performance, and immersive user interfaces utilizing modern React ecosystems. |
+| **🧠 Back-End Logic** | **🎥 Media & Content Creation** |
+| Designing resilient APIs, database structures, and server-side algorithms powered by Python. | Producing elite-tier, engaging educational programming content that inspires developers worldwide. |
 
 </div>
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## 🛠️ 03. // TECHNological ARSENAL (SKILLS)
 
 <div align="center">
 
-  ### **Front-End**
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-
-  ### **Back-End & Tools**
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  ### **-- Frontend Ecosystem --**
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="
